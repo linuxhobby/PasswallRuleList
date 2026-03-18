@@ -1,5 +1,11 @@
 #黑名单列表 blocklist#  
 360.cn  
+www.360.cn  
+qhimg.com  
+360safe.com  
+so.com  
+haosou.com  
+360totalsecurity.com  
 #baidu#  
 cpro.baidustatic.com  
 cpro.baidu.com  
