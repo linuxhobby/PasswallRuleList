@@ -12,6 +12,7 @@ cpro.baidu.com
 union.baidu.com  
 eiv.baidu.com  
 pos.baidu.com  
+push.baidu.com  
 dup.baidustatic.com  
 hm.baidu.com  
 cbjs.baidu.com  
